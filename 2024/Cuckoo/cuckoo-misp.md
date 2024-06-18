@@ -1,0 +1,3 @@
+# Arquivo utilizado para fins de configuração da Cuckoo com MISP. 
+
+Em andamento...
