@@ -1,6 +1,6 @@
-# Installation guidelines.
+# Guia de Instalação do MISP 
 
-To install MISP, follow the CERT.BR material.
+Para a instalação do MISP, necessário apenas seguir as orientações da instalação do MISP apresentado pelo CERT.BR
 
 https://www.cert.br/misp/tutorial-ubuntu/
 
